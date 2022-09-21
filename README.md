@@ -1,9 +1,14 @@
+<img align="center" src="https://github.com/mramankr97/mramankr97/blob/main/7-Skills-to-Become-a-Backend-Developer.png" alt="banner">
+
 <h1 align="center">Hi 👋, I'm Aman Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Backend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mramankr97&label=Profile%20views&color=0e75b6&style=flat" alt="mramankr97" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mramankr97&label=Profile%20views&color=0e75b6&style=flat" alt="mramankr97" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mramankr97" alt="mramankr97" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mramankr97" alt="mramankr97" /></a> </p>
+
+<img align="right" width=400 src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" alt="coding_gif">
+
 
 - 🌱 I’m currently learning **** Spring Boot & SQL ****
 
